@@ -1,0 +1,292 @@
+{"type": "FeatureCollection", 
+"features": [
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO ASPRO", 
+		"endereco": "Rodovia BR 277 km 21,5 – Rondinha", 
+		"cidade": "Campo Largo", 
+		"cep": "83608-000", 
+		"fone": "(41) 3292-9351" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.511791, -25.448387, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO TS COMÉRCIO DE GÁS VEICULAR", 
+		"endereco": "Rodovia BR 116 - km 87,5 - sentido Curitiba-São Paulo", 
+		"cidade": "Colombo", 
+		"cep": "83413-000", 
+		"fone": "" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.185778, -25.38925, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "AUTO POSTO MEDITERRÂNEO (GNC)", 
+		"endereco": "Av. Argentina, Jardim Rio Verde", 
+		"cidade": "Colombo", 
+		"cep": "83405-420", 
+		"fone": "(41) 3621-7358" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.194966, -25.373671, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "AUTO POSTO VIA DA UVA LTDA (GNC)", 
+		"endereco": "Rodovia da Uva, 881 – Jardim Arapongas", 
+		"cidade": "Colombo", 
+		"cep": "83402-000", 
+		"fone": "(41) 3037-2990 / (41) 9155-6193" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.219568, -25.356192, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "AUTO POSTO ITALIA CENTER LTDA", 
+		"endereco": "Av. Manoel Ribas, 3130 - Mercês", 
+		"cidade": "Curitiba", 
+		"cep": "80810-000", 
+		"fone": "(41) 3336-6359" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.305794, -25.414021, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO AEROPORTO (PÓRTICO MATRIZ)", 
+		"endereco": "Av. das Torres, 4094 - Uberaba (sentido São José dos Pinhais)", 
+		"cidade": "Curitiba", 
+		"cep": "81530-440", 
+		"fone": "(41) 3029- 6363" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.233035, -25.468243, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO QUERUBIM", 
+		"endereco": "Rua Isaac Guelmann, 4209 - Novo Mundo", 
+		"cidade": "Curitiba", 
+		"cep": "81050-030", 
+		"fone": "(41) 3327-2408" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.295346, -25.482449, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO PACHECO", 
+		"endereco": "Rodovia BR 116, km 110 - Tatuquara (saída Porto Alegre, em frente ao CEASA)", 
+		"cidade": "Curitiba", 
+		"cep": "81690-500", 
+		"fone": "(41) 3310-6226" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.306161, -25.550362, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO DAS TARTARUGAS", 
+		"endereco": "Av. Senador Salgado Filho, 405 - Prado Velho (Próximo a PUC)", 
+		"cidade": "Curitiba", 
+		"cep": "80215-270", 
+		"fone": "(41) 3016-8117" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.250342, -25.456536, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO FAROL DO PARQUE", 
+		"endereco": "Rodovia BR 277 nº. 3050 - Orleans (próximo ao Parque Barigui)", 
+		"cidade": "Curitiba", 
+		"cep": "82300-010", 
+		"fone": "(41) 3273-5470" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.342997, -25.429904, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO GÁS POSITIVO", 
+		"endereco": "Rua Prof. Pedro Viriato Parigot de Souza, (Via Rápida sentido Campo Comprido - próximo ao UNICENP)", 
+		"cidade": "Curitiba", 
+		"cep": "81280-330", 
+		"fone": "(41) 3095-5050 (41) 3095-4100" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.351006, -25.440502, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO JARDIM BOTÂNICO", 
+		"endereco": "Av. das Torres, 1197 - Jardim Botânico (sentido Curitiba)", 
+		"cidade": "Curitiba", 
+		"cep": "80230-150", 
+		"fone": "(41) 3026-7756" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.247285, -25.446386, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO O CUPIM LTDA", 
+		"endereco": "Rodovia BR 476, s/n km 107,5 - Pinheirinho", 
+		"cidade": "Curitiba", 
+		"cep": "81460-090", 
+		"fone": "(41) 3023-2844" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.295247, -25.523879, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO TRAPÉZIO (POMPÉIA)", 
+		"endereco": "Rua Raul Pompéia, 1364 - Fazendinha (próximo Av. JK)", 
+		"cidade": "Curitiba", 
+		"cep": "80230-110", 
+		"fone": "(41) 3016-5809" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.343106, -25.480467, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO CAPANEMA", 
+		"endereco": "Rua Eng. Rebouças, 520 - Jardim Botânico (próximo ao Estádio Durival Brito)", 
+		"cidade": "Curitiba", 
+		"cep": "80210-040", 
+		"fone": "(41) 3264-6160" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.251396, -25.43849, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO DOBSON", 
+		"endereco": "Rua Emanuel Voluz, 381 - Pinheirinho", 
+		"cidade": "Curitiba", 
+		"cep": "81870-320", 
+		"fone": "(41) 3082-8083" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.292237, -25.52489, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO PORTAL DA MARECHAL", 
+		"endereco": "Av. Mal. Floriano, 5548 - Vila Hauer (próximo ao HSBC)", 
+		"cidade": "Curitiba", 
+		"cep": "81630-000", 
+		"fone": "(41) 3015-5992" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.249916, -25.476889, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "AUTO POSTO ANGRA LTDA", 
+		"endereco": "Av. Sete de Setembro, 2578 - Centro - (próximo ao Shopping Estação)", 
+		"cidade": "Curitiba", 
+		"cep": "80230-010", 
+		"fone": "(41) 3029-6548" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.263991, -25.436359, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO ANALIPE", 
+		"endereco": "Av. Juscelino Kubitschek de Oliveira, 5951 - CIC (esquina com Raul Pompéia)", 
+		"cidade": "Curitiba", 
+		"cep": "81250-160", 
+		"fone": "(41) 3245-3039" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.347604, -25.482714, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO POTENZA LTDA", 
+		"endereco": "Rua João Negrão, 1561 - Rebouças (esquina com Eng. Rebouças)", 
+		"cidade": "Curitiba", 
+		"cep": "80230-150", 
+		"fone": "(41) 3013-6117" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.260162, -25.442432, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO SAN MICHAEL (JOÃO BETTEGA)", 
+		"endereco": "Rua Gen. Potiguara, 1695 - Novo Mundo (esquina Av João Bettega, próx. Osten Ferragens)", 
+		"cidade": "Curitiba", 
+		"cep": "81050-500", 
+		"fone": "(41) 3247-0456" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.319187, -25.487440, 0.0  ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO TIC POSTO I", 
+		"endereco": "Av. Senador Salgado Filho, 2992 – Uberaba", 
+		"cidade": "Curitiba", 
+		"cep": "81530-440", 
+		"fone": "(41) 3014-5368" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.226144, -25.475781, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO TIC POSTO II", 
+		"endereco": "Av. das Torres, 5175 - Uberaba (sentido Curitiba)", 
+		"cidade": "Curitiba", 
+		"cep": "81570-000", 
+		"fone": "(41) 3019-4380" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.234325, -25.473444, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO PEDRAZZOLI", 
+		"endereco": "Rua Moscardi Fanini, 268 - Vila Guaíra (contin. Brig. Franco)", 
+		"cidade": "Curitiba", 
+		"cep": "80220-450", 
+		"fone": "(41) 3332-2063" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.264349, -25.468522, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "AUTO POSTO PATMOS LTDA (GNC)", 
+		"endereco": "Avenida Anita Garibaldi, 5827 – Barreirinha", 
+		"cidade": "Curitiba", 
+		"cep": "82220-000", 
+		"fone": "(41) 3365-2823" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.262602, -25.363787, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "GASTECH - POSTO GNV (GNL)", 
+		"endereco": "Av. Brasília, 2267 - Nossa Senhora do Desterro", 
+		"cidade": "Londrina", 
+		"cep": "86025-180", 
+		"fone": "(43) 3357-2747<br><br><span style='color: #80002a;'><strong>OBS:</strong> Posto não atendido pela Compagas. <br>Para mais informações acesse <a href='www.gastechgnl.com' target='_new'>www.gastechgnl.com.</a></span>" }, 
+		"geometry": { "type": "Point", "coordinates": [ -51.1727, -23.292053, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "AUTO POSTO MEDITERRÂNEO LTDA (GNC)", 
+		"endereco": "Estrada das Praias, PR 407, s/n, km 0 - Vila Garcia", 
+		"cidade": "Paranaguá", 
+		"cep": "83405-420", 
+		"fone": "" }, 
+		"geometry": { "type": "Point", "coordinates": [ -48.573969, -25.574749, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO JARDIM BOTÂNICO LTDA", 
+		"endereco": "Rodovia Dep. João Leopoldo Jacomel, 60 – Centro", 
+		"cidade": "Pinhais", 
+		"cep": "83331-330", 
+		"fone": "" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.16894, -25.43539, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "M. PILATTI & CIA LTDA. - POSTO VISCONDE", 
+		"endereco": "Av. Visconde de Mauá, 1950 – Oficinas", 
+		"cidade": "Ponta Grossa", 
+		"cep": "84045-980", 
+		"fone": "(42) 3028-0223 / (42) 3028-0224" }, 
+		"geometry": { "type": "Point", "coordinates": [ -50.155724, -25.124782, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO BOA VISTA", 
+		"endereco": "Av. Dom Pedro II, 1383 - Nova Rússia", 
+		"cidade": "Ponta Grossa", 
+		"cep": "84053-000", 
+		"fone": "(42) 3227-9099" }, 
+		"geometry": { "type": "Point", "coordinates": [ -50.188401, -25.08206, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO PARQUE DA FONTE", 
+		"endereco": "Av Rui Barbosa, 4135 - Afonso Pena", 
+		"cidade": "São José dos Pinhais", 
+		"cep": "83065-260", 
+		"fone": "(41) 3282-9590" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.168552, -25.502568, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO MARU V LTDA", 
+		"endereco": "Av. Rui Barbosa, 1676 Jd. Rio Branco (Colônia Muricy)", 
+		"cidade": "São José dos Pinhais", 
+		"cep": "83055-320", 
+		"fone": "(41) 3382-3267" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.163786, -25.496668, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO TIO ZICO II", 
+		"endereco": "Rodovia BR 376, km 626 - Nhoiva (próximo ao Paraná Golf)", 
+		"cidade": "São José dos Pinhais", 
+		"cep": "83005-960", 
+		"fone": "(41) 3384-1122" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.158189, -25.652056, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "TIC IV POSTO LTDA (NAPOLITANO)", 
+		"endereco": "Av. das Torres, 2511 - São Pedro", 
+		"cidade": "São José dos Pinhais", 
+		"cep": "83005-450", 
+		"fone": "(41) 3035-3280" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.196286, -25.526675, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO PARQUE DO BOSQUE", 
+		"endereco": "Rod. BR 376, km 23,5 - Colônia Muricy (sentido Joinville/Curitiba)", 
+		"cidade": "São José dos Pinhais", 
+		"cep": "81250-320", 
+		"fone": "(41) 3384-5671" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.1587928, -25.6447515, 0.0 ] } 
+	},
+	{ "type": "Feature", "properties": { 
+		"posto": "POSTO ALVES DA ROCHA LTDA. (DOIS PINHEIROS)", 
+		"endereco": "Av. Joaquim Nabuco, 1643 - Centro", 
+		"cidade": "São José dos Pinhais", 
+		"cep": "83040-210", 
+		"fone": "(41) 3035-2560" }, 
+		"geometry": { "type": "Point", "coordinates": [ -49.202341, -25.52899, 0.0 ] } 
+	}
+
+]}
